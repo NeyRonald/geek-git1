@@ -1,5 +1,21 @@
-# Geek-git1
+# Nome do seu Projeto
 
-Arquivo README do projeto precisava de alteração.
+> Um resumo curto sobre o que seu projeto faz
 
-Repositório criado para fazer testes no git e github, além de aprender sobre issues
+Um ou dois parágrafos sobre seu projeto e o que ele faz.
+
+![](goku.jpg)
+
+## Instalação
+
+MAC OS X & LINUX:
+
+```sh
+npm install --save
+```
+
+Windows:
+
+```sh
+edit autoexec.bat
+```
